@@ -1,0 +1,13 @@
+.red-box {
+  color: white;
+  background-color: red;
+}
+
+.green-box {
+  color: white;
+  background-color: green;
+}
+
+#restartBtn {
+  display: none;
+}
